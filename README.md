@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-# Tic-Tac-Toe
-
- <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css">
-
-A bare-minimum Tic Tac Toe App built on React-Native
-
+# Spanish-Numbers
+A fun app that Translates numbers from 1 to 10 into Spanish audio
 ## Screenshots :
 
 - 1 ![Screenshot 01](https://raw.githubusercontent.com/devmohit-live/Images_of_repo/master/Spanish.png)
@@ -28,9 +23,3 @@ A bare-minimum Tic Tac Toe App built on React-Native
 [<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" width="150" height="150" />](https://www.linkedin.com/in/devmohitsingh/ "LinkedIn")
 
 </row>
-=======
-# Spanish-Numbers
-A fun app that Translates numbers from 1 to 10 into Spanish audio
-
-**Preview: 
->>>>>>> 91479a7710fdeedd74a97d11ccdfbc35b64aa29f
